@@ -9,6 +9,7 @@ DepTrigger refers to salient nodes relative to an entity in the dependency graph
 
 
 DepTrigger is closely related to the TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition.
+
 Compared to TriggerNER, DepTrigger outperforms for long sentences, while still maintain good performance for short sentences as usual. Our framework is significantly more cost-effective in real business.
 
 
